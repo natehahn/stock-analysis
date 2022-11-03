@@ -4,22 +4,26 @@ The purpose of this anlaysis was to help George build a script to analyze stock 
 
 Here are the results of the two different types of code:
 
+#### Non-Refactored
+
 This image shows the output of the original code before it was refactored
-![All Stock Analysis Output](/Resources/AllStockAnalysis%20Module.png)
+
+<img src="/Resources/AllStockAnalysis%20Module.png" height="250" width="250"/>
 
 
 Followed by the amount of time it took to run
 
-![All Stock Analysis Time](/Resources/AllStockAnalysis_Time.png))
+<img src="/Resources/AllStockAnalysis_Time.png" height="250" width="250"/>
 
+#### Refactored
 
 This image shows the output after we refactored the code to only loop through all rows without a nested for loop
-![VBA Challenge Output](/Resources/VBA%20Challenge.png))
+<img src="/Resources/VBA%20Challenge.png" height="250" width="250"/>
 
 
 Followed by the amount of time it took to run
 
-![VBA Challenge Output](/Resources/VBA%20Challenge_Time.png))
+<img src="/Resources/VBA%20Challenge_Time.png" height="250" width="250"/>
 
 
 **Summary**
